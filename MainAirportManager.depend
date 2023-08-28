@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1658315502 source:c:\users\itcity\documents\codeblockspr\mainairportmanager\main.cpp
+	<iostream>
+	"Employee.h"
+	"Passenger.h"
+	"Flight.h"
+	"Ticket.h"
+
+1658314798 source:c:\users\itcity\documents\codeblockspr\mainairportmanager\manager.cpp
+	"manager.h"
+
+1658315825 c:\users\itcity\documents\codeblockspr\mainairportmanager\manager.h
+	<stdio.h>
+	"sqlite3.h"
+	<iostream>
+	<vector>
+
+1656170532 c:\users\itcity\documents\codeblockspr\mainairportmanager\sql\sqlite3.h
+	<stdarg.h>
+
+1658313602 source:c:\users\itcity\documents\codeblockspr\mainairportmanager\employee.cpp
+	"Employee.h"
+
+1658259326 c:\users\itcity\documents\codeblockspr\mainairportmanager\employee.h
+	<iostream>
+	"manager.h"
+	<stdio.h>
+
+1658313384 source:c:\users\itcity\documents\codeblockspr\mainairportmanager\passenger.cpp
+	"Passenger.h"
+
+1658238983 c:\users\itcity\documents\codeblockspr\mainairportmanager\passenger.h
+	"manager.h"
+	<iostream>
+
+1658234243 c:\users\itcity\documents\codeblockspr\mainairportmanager\flight.h
+	"manager.h"
+
+1658313697 source:c:\users\itcity\documents\codeblockspr\mainairportmanager\flight.cpp
+	"Flight.h"
+
+1658316065 source:c:\users\itcity\documents\codeblockspr\mainairportmanager\ticket.cpp
+	"Ticket.h"
+
+1658244908 c:\users\itcity\documents\codeblockspr\mainairportmanager\ticket.h
+	"Passenger.h"
+	"Flight.h"
+
+1658366679 source:c:\users\itcity\desktop\mainairportmanager\employee.cpp
+	"Employee.h"
+
+1658366746 c:\users\itcity\desktop\mainairportmanager\employee.h
+	<iostream>
+	"manager.h"
+	<stdio.h>
+
+1658348391 c:\users\itcity\desktop\mainairportmanager\manager.h
+	<stdio.h>
+	"sqlite3.h"
+	<iostream>
+	<vector>
+
+1658368123 source:c:\users\itcity\desktop\mainairportmanager\flight.cpp
+	"Flight.h"
+
+1658327647 c:\users\itcity\desktop\mainairportmanager\flight.h
+	"manager.h"
+
+1658366503 source:c:\users\itcity\desktop\mainairportmanager\manager.cpp
+	"manager.h"
+
+1658366578 source:c:\users\itcity\desktop\mainairportmanager\passenger.cpp
+	"Passenger.h"
+
+1658366736 c:\users\itcity\desktop\mainairportmanager\passenger.h
+	"manager.h"
+	<iostream>
+
+1658348394 source:c:\users\itcity\desktop\mainairportmanager\ticket.cpp
+	"Ticket.h"
+
+1658367620 c:\users\itcity\desktop\mainairportmanager\ticket.h
+	"Passenger.h"
+	"Flight.h"
+
+1658368241 source:c:\users\itcity\desktop\mainairportmanager\main.cpp
+	<iostream>
+	"Employee.h"
+	"Passenger.h"
+	"Flight.h"
+	"Ticket.h"
+
+1658366680 source:d:\c++pr\mainairportmanager\employee.cpp
+	"Employee.h"
+
+1658366748 d:\c++pr\mainairportmanager\employee.h
+	<iostream>
+	"manager.h"
+	<stdio.h>
+
+1658348392 d:\c++pr\mainairportmanager\manager.h
+	<stdio.h>
+	"sqlite3.h"
+	<iostream>
+	<vector>
+
+1658368124 source:d:\c++pr\mainairportmanager\flight.cpp
+	"Flight.h"
+
+1658327648 d:\c++pr\mainairportmanager\flight.h
+	"manager.h"
+
+1658366504 source:d:\c++pr\mainairportmanager\manager.cpp
+	"manager.h"
+
+1658368452 source:d:\c++pr\mainairportmanager\ticket.cpp
+	"Ticket.h"
+
+1658401283 d:\c++pr\mainairportmanager\ticket.h
+	"Passenger.h"
+	"Flight.h"
+
+1658401283 d:\c++pr\mainairportmanager\passenger.h
+	"manager.h"
+	<iostream>
+
